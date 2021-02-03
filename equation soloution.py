@@ -43,7 +43,6 @@ def calculationx2():
 #now you should call your function
 calculationx2()
 
-#wrote by Moein Rezaie
 #github: mrgmcs
 #instagram: mrg.mcs
 #goodluck
